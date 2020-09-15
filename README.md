@@ -1,2 +1,2 @@
-# The-Lirary
+# The-Library
 final project for SQL
